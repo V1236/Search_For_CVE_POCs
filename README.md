@@ -10,10 +10,9 @@ Searches for Public Exploit Scripts & POC's for each CVE in the list (Tells you 
 Saves the results to results.txt
 
 *Usage*
+
 '''
 python3 searchexploit.py
 '''
 
 Enter the name of the text file containing the CVE's (Takes no Arguments)
-
-*Enjoy*
